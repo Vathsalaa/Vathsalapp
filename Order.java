@@ -1,2 +1,2 @@
-system.out.println("Pizza,Burger");//vaerified
+system.out.println("Pizza,Burger");//verified
 
