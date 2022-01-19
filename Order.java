@@ -1,1 +1,1 @@
-system.out.println("Pizza,Burger,Pepsi");
+system.out.println("Pizza,Burger");
